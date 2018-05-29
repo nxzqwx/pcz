@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="https://slavkoplus.plavipixel.com.hr/wp-content/themes/pcz/css/front/all.css" />
+<link rel="stylesheet" href="style.css">
 <article class="single__content-article" id="8252">
   <section class="content__single-title">
   <header class="content">
