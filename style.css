@@ -1,0 +1,11 @@
+.single__content-row {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.single__content {
+    display: grid;
+}
+.single__content-sidebar {
+    margin-left: 10px;
+    display: grid;
+}
