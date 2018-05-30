@@ -1,26 +1,29 @@
+<link rel="stylesheet" type="text/css" href="https://slavkoplus.plavipixel.com.hr/wp-content/themes/pcz/css/front/all.css" />
+<link rel="stylesheet" href="style1.css">
 <article class="single__content-article" id="6580">
 
-                    <header class="ponuda__bg" style="background-image: url('https://slavkoplus.plavipixel.com.hr/wp-content/uploads/20150616-640x480-Mladenci-edit.jpeg')">
-        <section class="content">
+                    <header class="ponuda__bg" style="background-image: url('http://www.wallpapersandbackground.com/images/wedding-couple-happiest-new-couple-wallpapers-and-backgrounds.jpg'); background-size:cover;height:610px;width:1910px;">
+        <section class="content" style="margin-left:43px;">
           <div class="ponuda__content-row">
             <div class="ponuda__content-top--l">
-              <h1>Za mladence</h1>
-              <h4>Prvi ples za pamćenje</h4>
-              <p></p><p>Jedna od prvih stvari kojom mladenci ulaze u zajednički život jest PLES. Kao takav zaslužuje veliku pažnju i zahtjeva pripremu, jer ostaje u trajnom sjećanju za cijeli život.</p>
+              <h1 style="color:white;">Za mladence</h1>
+              <h4 style="color:white;">Prvi ples za pamćenje</h4>
+              <p></p><p style="font-size:190%;margin-left:9px;margin-top:1em;color:#ffdd75;"><b>Jedna od prvih stvari kojom mladenci ulaze u zajednički život jest PLES.</b> <br><br>Kao takav zaslužuje veliku pažnju i zahtjeva pripremu,<br> jer ostaje u trajnom sjećanju <b>za cijeli život.</b></p>
 <p></p>
             </div>
             <div class="ponuda__content-top--r">
               <p class="ponuda__content-forma">
 
                 </p><div class="gf_browser_chrome gform_wrapper" id="gform_wrapper_4"><a id="gf_4" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_4" id="gform_4" action="/ponuda/za-mladence/#gf_4">
-                        <div class="gform_body"><ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below"><li id="field_4_8" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_8">Ime<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_8" id="input_4_8" type="text" value="" class="large" tabindex="12" placeholder="Ime *" aria-required="true" aria-invalid="false"></div></li><li id="field_4_9" class="gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_9">Prezime<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_9" id="input_4_9" type="text" value="" class="large" tabindex="13" placeholder="Prezime *" aria-required="true" aria-invalid="false"></div></li><li id="field_4_2" class="gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_2">Kontakt telefon<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_phone"><input name="input_2" id="input_4_2" type="text" value="" class="large" tabindex="14" placeholder="Kontakt telefon *" aria-required="true" aria-invalid="false"></div></li><li id="field_4_3" class="gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_3">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
-                            <input name="input_3" id="input_4_3" type="text" value="" class="large" tabindex="15" placeholder="Email *" aria-required="true" aria-invalid="false">
-                        </div></li><li id="field_4_11" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_11">Dolazim<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_select"><select name="input_11" id="input_4_11" class="large gfield_select" tabindex="16" aria-required="true" aria-invalid="false"><option value="" selected="selected" class="gf_placeholder">Dolazim *</option><option value="Sam/a">Sam/a</option><option value="U paru">U paru</option></select></div></li><li id="field_4_12" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label">Newsletter prijava</label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_4_12"><li class="gchoice_4_12_1">
+                        <div class="gform_body"><ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below" style="list-style-type: none;padding:1px;"><li id="field_4_8" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" style="margin:.5em;"><div class="ginput_container ginput_container_text"><input name="input_8" id="input_4_8" type="text" value="" class="large" tabindex="12" placeholder="Ime *" aria-required="true" aria-invalid="false" style="border-radius:.34em;padding: 4px;"></div></li><li id="field_4_9" class="gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" style="margin:.5em;"><div class="ginput_container ginput_container_text"><input name="input_9" id="input_4_9" type="text" value="" class="large" tabindex="13" placeholder="Prezime *" aria-required="true" aria-invalid="false" style="border-radius:.34em;padding:4px;" ></div></li><li id="field_4_2" class="gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"  style="margin:.5em;">
+                            <div class="ginput_container ginput_container_phone"><input name="input_2" id="input_4_2" type="text" value="" class="large" tabindex="14" placeholder="Kontakt telefon *" aria-required="true" aria-invalid="false" style="border-radius:.34em;padding:4px;"></div></li><li id="field_4_3" class="gfield gplaceholder gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><div class="ginput_container ginput_container_email">
+                            <input name="input_3" id="input_4_3" type="text" value="" class="large" tabindex="15" placeholder="Email *" aria-required="true" aria-invalid="false" style="margin:.5em;border-radius:.25em;padding:4px;">
+                        </div></li><li id="field_4_11" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" style="margin:.5em;"><div class="ginput_container ginput_container_select"><select name="input_11" id="input_4_11" class="large gfield_select" tabindex="16" aria-required="true" aria-invalid="false" style="margin-left:45px;"><option value="" selected="selected" class="gf_placeholder">Dolazim *</option><option value="Sam/a">Sam/a</option><option value="U paru">U paru</option></select></div></li><li id="field_4_12" class="gfield field_sublabel_below field_description_below gfield_visibility_visible" style="margin-top:12px;"><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_4_12"><li class="gchoice_4_12_1" style="list-style-type:none;margin-left:-15px;">
 								<input name="input_12.1" type="checkbox" value="Newsletter prijava" checked="checked" id="choice_4_12_1" tabindex="17">
-								<label for="choice_4_12_1" id="label_4_12_1">Newsletter prijava</label>
+								<label for="choice_4_12_1" id="label_4_12_1" style="list-style-type:none;">Newsletter prijava</label>
 							</li></ul></div></li>
                             </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_4" class="gform_button button" value="Pošalji" tabindex="18" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  window[&quot;gf_submitting_4&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_4&quot;]){return false;} window[&quot;gf_submitting_4&quot;]=true;  jQuery(&quot;#gform_4&quot;).trigger(&quot;submit&quot;,[true]); }"> <input type="hidden" name="gform_ajax" value="form_id=4&amp;title=&amp;description=&amp;tabindex=12">
+        <div class="gform_footer top_label" style="margin-left:58px;"> <input type="submit" id="gform_submit_button_4" class="gform_button button" value="Pošalji" tabindex="18" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  window[&quot;gf_submitting_4&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_4&quot;]){return false;} window[&quot;gf_submitting_4&quot;]=true;  jQuery(&quot;#gform_4&quot;).trigger(&quot;submit&quot;,[true]); }" style="margin-left:.35em;"> <input type="hidden" name="gform_ajax" value="form_id=4&amp;title=&amp;description=&amp;tabindex=12" >
             <input type="hidden" class="gform_hidden" name="is_submit_4" value="1">
             <input type="hidden" class="gform_hidden" name="gform_submit" value="4">
 
@@ -42,13 +45,13 @@
           </div>
         </section>
       </header>
-      <section class="content__single-title">
-        <div class="content">
+      <section class="content__single-title" style="background-color:WHITE;">
+        <div class="content" style="background-color:#f4f4f4;">
 
 
           <div class="content__single-title-h1">
-             <h2>
-               <span class="pp-roza">Plesovi:</span> engleski valcer, bečki valcer, foxtrot (dvokorak u kombinaciji s disco-foxom), blues (sentiš).             </h2>
+             <h2 style="text-align:center;">
+               Engleski i bečki valcer, foxtrot (dvokorak u kombinaciji s disco-foxom), blues (sentiš).             </h2>
           </div>
 
           <div class="content__single-sharing">
@@ -80,12 +83,13 @@
 <caption style="caption-side:bottom;text-align:left;border:none;background:none;margin:0;padding:0;"><a href="https://slavkoplus.plavipixel.com.hr/wp-admin/admin.php?page=tablepress&amp;action=edit&amp;table_id=15">Uredi</a></caption>
 <thead>
 <tr class="row-1 odd">
+    <h4 class="h41">BRZI TEČAJEVI ZA MLADENCE I SVE OSTALE</h4></td><td class="column-5">
 	<th class="column-1">Naziv</th><th class="column-2">Dani u tjednu</th><th class="column-3">Satnica</th><th class="column-4">Status / Termin</th><th class="column-5">&nbsp;</th>
 </tr>
 </thead>
 <tbody class="row-hover">
-<tr class="row-2 even">
-	<td colspan="4" class="column-1"><h4>BRZI TEČAJEVI ZA MLADENCE I SVE OSTALE</h4></td><td class="column-5">Jednokratno/ dvokratno</td>
+<tr class="row-2 even"><br>
+	<td colspan="4" class="column-1">Jednokratno/ dvokratno</td>
 </tr>
 <tr class="row-3 odd">
 	<td class="column-1">Ubrzani dvotjedni tečaj 9 sati</td><td class="column-2">PON/UTO/PET</td><td class="column-3">20:30 - 22:00</td><td class="column-4"><strong>Planirani početak 28.5.</strong></td><td class="column-5">350 kn</td>
