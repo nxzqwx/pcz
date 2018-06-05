@@ -1,8 +1,85 @@
-
-h1{
-    background-color:yellow;
+.ponuda__bg {
+    height:650px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+  position:relative;
 }
 
+h1{
+grid-row-start:2;
+color:white;
+}
+
+h4 {
+    color:#cc007b;
+    text-transform: uppercase;
+}
 p {
-    font-size: 32px;
+    color:white;
+}
+
+.ponuda__content-top--l {
+    display:grid;
+  grid-area: ponuda__content-top--l;
+  margin-left: 20px;
+    margin-top: 150px;
+}
+.ponuda__content-top--r {
+  grid-area: ponuda__content-top--r;
+  grid-column-start:2;
+  margin-top: 150px;
+    margin-left: 100px;
+}
+
+.ponuda__content-row {
+    display: grid;
+ grid-template-areas: "ponuda__content-top--l" "ponuda__content-top--r";
+ grid-template-columns: 1fr 1fr;
+grid-template-rows: 0;
+}
+
+.pp-roza{
+    color:#cc007b;
+}
+
+.content__single-title--row
+{
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+
+.content__single-title-h1 {
+    text-transform:capitalize;
+}
+
+
+/* MOBILNA VERZIJA STARICE */
+@media only screen and (max-width: 650px) {
+
+
+.ponuda__content-row{
+    display:flex;
+    flex-direction: column;
+}
+
+h1,h4 {
+    text-align:center;
+    justify-content: center;
+}
+.ponuda__content-top--r {
+    margin-top:0;
+}
+
+.ponuda__bg {
+    height:785px;
+}
+.gform_body {
+    margin: 0 auto;
+      width: auto;
+}
+
+
+
 }
