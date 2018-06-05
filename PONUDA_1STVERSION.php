@@ -6,8 +6,8 @@
         <section class="content">
           <div class="ponuda__content-row">
             <div class="ponuda__content-top--l">
-              <h1>Za mladence</h1>
-              <h4>Prvi ples za pamćenje</h4>
+<h1>Za mladence</h1>
+<h4>Prvi ples za pamćenje</h4>
               <p></p><p>Jedna od prvih stvari kojom mladenci ulaze u zajednički život jest PLES. Kao takav zaslužuje veliku pažnju i zahtjeva pripremu, jer ostaje u trajnom sjećanju za cijeli život.</p>
 <p></p>
             </div>
@@ -45,7 +45,7 @@
         </section>
       </header>
       <section class="content__single-title">
-        <div class="content">
+        <div class="content content__single-title--row">
 
 
           <div class="content__single-title-h1">
